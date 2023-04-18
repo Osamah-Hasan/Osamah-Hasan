@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> 
 </a>
 <a href="https://www.w3schools.com/js/DEFAULT.asp" rel="nofollow" class="L-Affiliate-Tagged">
-  <img src="./images/JavaScript-Logo.png" alt="Javascript" width="70" hight="70" style="max-width: 100%;">
+  <img src="./images/JavaScript-Logo.png" alt="Javascript" width="60" hight="60" style="max-width: 100%;">
 </a>
 <a href="https://www.w3schools.com/css/" rel="nofollow" class="L-Affiliate-Tagged">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="max-width: 100%;">
