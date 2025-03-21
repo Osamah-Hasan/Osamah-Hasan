@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there I am Osamah👋 </h1>
 
-<h2>Languages I use</h2>
 <h2>✍ Programming Languages</h2>
 <p>
   <a href="https://github.com/search?q=user%3AOsamah-Hasan+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-%2300599C.svg?logo=cpp2&logoColor=white"></a>
